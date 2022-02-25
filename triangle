@@ -1,0 +1,19 @@
+package id71687;
+
+public class Triangle {
+	
+
+	public static void main (String args[]) ; {
+
+		findArea(3.4,5.9,6.7,2.7,5.4,4.8);
+		
+
+}
+	
+	public static void findArea(double a, double b, double c, double x, double y, double z);
+
+	float area =  1/2 * 1[a * ( y - z) +  b *( z-x) + c*(x-y)];
+			
+
+	system.out.println(area);
+}
